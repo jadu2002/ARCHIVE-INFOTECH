@@ -1,0 +1,3 @@
+<service android:name=".TimerService" 
+         android:foregroundServiceType="dataSync" />
+<receiver android:name=".TimerReceiver" />
